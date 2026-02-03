@@ -16,3 +16,11 @@ All analysis was carried out using **Microsoft Excel**.
 | Data Modelling | Pivot Chart Analysis |
 | Dashboard Interpretation | |
 
+---
+
+## **MY EXCEL PROJECTS**
+-- [CLICK TO OPEN PANDEMIC ANALYSIS DASHBOARD](https://github.com/drepaul70/Pandemic/blob/main/README.md)
+
+-- [CLICK TO OPEN FOODHUB ANALYSIS](https://github.com/drepaul70/FoodHub/blob/main/README.md)
+
+
